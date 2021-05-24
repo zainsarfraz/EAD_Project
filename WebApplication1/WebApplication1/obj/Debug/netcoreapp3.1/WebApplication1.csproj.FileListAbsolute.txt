@@ -158,3 +158,4 @@ F:\EAD_Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplic
 F:\EAD_Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 F:\EAD_Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 F:\EAD_Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+F:\EAD_Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Account\login.cshtml.g.cs
