@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Study -_-\\6th Semester\\Enterprise Application Developement - Dr Shuja ul Rehman\\Project\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "F:\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "F:\\Study -_-\\6th Semester\\Enterprise Application Developement - Dr Shuja ul Rehman\\Project\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "F:\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Study -_-\\6th Semester\\Enterprise Application Developement - Dr Shuja ul Rehman\\Project\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "F:\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "F:\\Study -_-\\6th Semester\\Enterprise Application Developement - Dr Shuja ul Rehman\\Project\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\Zain\\.nuget\\packages\\",
-        "outputPath": "F:\\Study -_-\\6th Semester\\Enterprise Application Developement - Dr Shuja ul Rehman\\Project\\EAD_Project\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "F:\\EAD_Project\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Nouman\\.nuget\\packages\\",
+        "outputPath": "F:\\EAD_Project\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nouman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

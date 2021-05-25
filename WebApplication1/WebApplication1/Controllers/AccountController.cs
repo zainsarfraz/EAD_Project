@@ -18,5 +18,12 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public IActionResult login()
+        {
+            return View();
+        }
+
+
     }
+
 }
